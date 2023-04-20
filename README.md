@@ -1,1 +1,1 @@
-# rivality.github.io
+# Rivality Network Bot
